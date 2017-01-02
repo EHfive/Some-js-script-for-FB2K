@@ -1,13 +1,11 @@
 ﻿/**
  * Created by cimoc on 2016/12/23
- * Netease Cloud Music Lyric Source Script For ESLyric
+ * Netease Cloud Music Lyric Source For ESLyric
  * version : 0.1.2 b6
- * Thanks to ChowDPa02K,Jeannela\Elia,and the provider of N.C.M. api
- * page : https://sokka.cn/107/
- * download page : https://sokka.cn/down/ncm_lyric/
- * cimoc : mail : cimoc@sokka.cn
- *         blog : https://sokka.cn
- *                akkos.lofter.com
+ * 感谢 ChowDPa02K,Jeannela\Elia, 不知名的的api提供者
+ * 页面 : https://github.com/cimoc-sokka/Some-js-script-for-FB2K
+ * 下载 : https://github.com/cimoc-sokka/Some-js-script-for-FB2K/releases
+ * cimoc的邮箱 : cimoc@sokka.cn
  */
 
     //更改lrc_order内标识顺序,设置歌词输出顺序,删除即不获取
