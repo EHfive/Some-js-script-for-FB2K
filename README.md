@@ -4,7 +4,8 @@
 FB2K ESLyric 下的能获取网易云音乐歌词并进行一些处理的脚本
 
 ###设置歌词输出顺序,删除即不获取
-merge:并排合并歌词,newtype:并列合并,tran:翻译,origin:原版歌词
+merge_old:并排合并歌词,newtype:并列合并,tran:翻译,origin:原版歌词
+(merge_new:不推荐使用 实现卡拉OK模式下不高亮翻译,不支持保存,英语字符歌词会显示时间轴:ESLyric实现问题)
 ``` javascript
 var lrc_order = [
 		"newtype",
